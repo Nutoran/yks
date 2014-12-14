@@ -1,0 +1,33 @@
+D:\Studies\ИГИ\KnigoPoisk\DAL\bin\Debug\DAL.dll
+D:\Studies\ИГИ\KnigoPoisk\DAL\bin\Debug\DAL.pdb
+D:\Studies\ИГИ\KnigoPoisk\DAL\bin\Debug\Entities.dll
+D:\Studies\ИГИ\KnigoPoisk\DAL\bin\Debug\EntityFramework.dll
+D:\Studies\ИГИ\KnigoPoisk\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Studies\ИГИ\KnigoPoisk\DAL\bin\Debug\Entities.pdb
+D:\Studies\ИГИ\KnigoPoisk\DAL\bin\Debug\EntityFramework.xml
+D:\Studies\ИГИ\KnigoPoisk\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Studies\ИГИ\KnigoPoisk\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\Studies\ИГИ\KnigoPoisk\DAL\obj\Debug\DAL.dll
+D:\Studies\ИГИ\KnigoPoisk\DAL\obj\Debug\DAL.pdb
+d:\Studies\IGI\KnigoPoisk\DAL\bin\Debug\DAL.dll
+d:\Studies\IGI\KnigoPoisk\DAL\bin\Debug\DAL.pdb
+d:\Studies\IGI\KnigoPoisk\DAL\bin\Debug\Entities.dll
+d:\Studies\IGI\KnigoPoisk\DAL\bin\Debug\EntityFramework.dll
+d:\Studies\IGI\KnigoPoisk\DAL\bin\Debug\EntityFramework.SqlServer.dll
+d:\Studies\IGI\KnigoPoisk\DAL\bin\Debug\Entities.pdb
+d:\Studies\IGI\KnigoPoisk\DAL\bin\Debug\EntityFramework.xml
+d:\Studies\IGI\KnigoPoisk\DAL\bin\Debug\EntityFramework.SqlServer.xml
+d:\Studies\IGI\KnigoPoisk\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+d:\Studies\IGI\KnigoPoisk\DAL\obj\Debug\DAL.dll
+d:\Studies\IGI\KnigoPoisk\DAL\obj\Debug\DAL.pdb
+C:\Users\Alexey\Desktop\BooksBooks-master (1)\BooksBooks-master\KnigoPoisk\KnigoPoisk\DAL\bin\Debug\DAL.dll
+C:\Users\Alexey\Desktop\BooksBooks-master (1)\BooksBooks-master\KnigoPoisk\KnigoPoisk\DAL\bin\Debug\DAL.pdb
+C:\Users\Alexey\Desktop\BooksBooks-master (1)\BooksBooks-master\KnigoPoisk\KnigoPoisk\DAL\bin\Debug\Entities.dll
+C:\Users\Alexey\Desktop\BooksBooks-master (1)\BooksBooks-master\KnigoPoisk\KnigoPoisk\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Alexey\Desktop\BooksBooks-master (1)\BooksBooks-master\KnigoPoisk\KnigoPoisk\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Alexey\Desktop\BooksBooks-master (1)\BooksBooks-master\KnigoPoisk\KnigoPoisk\DAL\bin\Debug\Entities.pdb
+C:\Users\Alexey\Desktop\BooksBooks-master (1)\BooksBooks-master\KnigoPoisk\KnigoPoisk\DAL\bin\Debug\EntityFramework.xml
+C:\Users\Alexey\Desktop\BooksBooks-master (1)\BooksBooks-master\KnigoPoisk\KnigoPoisk\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Alexey\Desktop\BooksBooks-master (1)\BooksBooks-master\KnigoPoisk\KnigoPoisk\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Alexey\Desktop\BooksBooks-master (1)\BooksBooks-master\KnigoPoisk\KnigoPoisk\DAL\obj\Debug\DAL.dll
+C:\Users\Alexey\Desktop\BooksBooks-master (1)\BooksBooks-master\KnigoPoisk\KnigoPoisk\DAL\obj\Debug\DAL.pdb
